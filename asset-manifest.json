@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/aownaliportfolio/static/css/main.d1123a3b.css",
+    "main.js": "/aownaliportfolio/static/js/main.807bb0d6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/aownaliportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pp.png": "/aownaliportfolio/static/media/pp.e31c5bb0ffc09ddda7b2.png",
+    "static/media/Poppins-Thin.ttf": "/aownaliportfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/aownaliportfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/aownaliportfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/aownaliportfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/aownaliportfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/aownaliportfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/aownaliportfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/reactnative.png": "/aownaliportfolio/static/media/reactnative.1be9a03fac3460a080b9.png",
+    "static/media/c.png": "/aownaliportfolio/static/media/c.52cac406d9bc125ec8bc.png",
+    "static/media/mysql.png": "/aownaliportfolio/static/media/mysql.d9860ff55e971d2856cb.png",
+    "static/media/bg.jpg": "/aownaliportfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/bootstrap.png": "/aownaliportfolio/static/media/bootstrap.7709cdbfabde406a787d.png",
+    "static/media/html.png": "/aownaliportfolio/static/media/html.7aa9a441950283a96c63.png",
+    "static/media/phone.png": "/aownaliportfolio/static/media/phone.252be36fbc5e9cbf2b84.png",
+    "static/media/firebase.png": "/aownaliportfolio/static/media/firebase.659a78e839f0915e5140.png",
+    "static/media/wordpress.jpg": "/aownaliportfolio/static/media/wordpress.d7dfc2a2656f13e9b045.jpg",
+    "index.html": "/aownaliportfolio/index.html",
+    "main.d1123a3b.css.map": "/aownaliportfolio/static/css/main.d1123a3b.css.map",
+    "main.807bb0d6.js.map": "/aownaliportfolio/static/js/main.807bb0d6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/aownaliportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1123a3b.css",
+    "static/js/main.807bb0d6.js"
+  ]
+}
